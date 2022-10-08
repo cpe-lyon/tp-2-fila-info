@@ -53,8 +53,15 @@ Exercice 2. Contrôle de mot de passe
 
 Exercice 3. Expression rationelles
 
-<img width="301" alt="image" src="https://user-images.githubusercontent.com/97104312/190911979-74a48cdf-9509-49bb-bc4b-a10ce1971a2f.png">
+<img width="301" alt="image" src="https://user-images.githubusercontent.com/97104312/190911979-74a48cdf-9509-49bb-bc4b-a10ce1971a2f.png">  
+
+Exercice 4. Contrôle d’utilisateur  
+![image](https://user-images.githubusercontent.com/97104312/194725481-bffe86d0-8430-4d88-84a1-4933b1bd68cf.png)
+
 
 Exercice 5. Factorielle
 
 <img width="203" alt="image" src="https://user-images.githubusercontent.com/97104312/190910507-edf7598d-6784-4cfe-b7c0-47f840b98c69.png">
+
+Exercice 6 : Le juste prix  
+![image](https://user-images.githubusercontent.com/97104312/194725523-4250ae77-0856-4835-abf8-6743cc18af38.png)
